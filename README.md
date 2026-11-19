@@ -1,6 +1,6 @@
-### Hi, I'm Osemu 👋
+### Hi there 👋
 
-Senior Full-Stack Engineer with 10+ years of hands-on experience in backend, frontend, and cloud engineering. I’ve worked in multiple industries, building products for both startups and large enterprises, from greenfield projects to large-scale systems serving millions of users.
+I'm a Full-Stack Engineer with 10+ years of hands-on experience in backend, frontend, and cloud engineering. I’ve worked in multiple industries, building products for both startups and large enterprises, from greenfield projects to large-scale systems serving millions of users.
 
 - **Backend:** Node.js, Express, NestJS, Java, Spring Boot, Go, GraphQL, REST
 - **Frontend:** TypeScript, React, Next.js
