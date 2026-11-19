@@ -1,17 +1,11 @@
-### Hi there 👋😁
+### Hi, I'm Osemu 👋
 
-I'm Ose Matthew, and I am a creative software engineer, mostly into Front end engineering.
+Senior Full-Stack Engineer with 10+ years of hands-on experience in backend, frontend, and cloud engineering. I’ve worked in multiple industries, building products for both startups and large enterprises, from greenfield projects to large-scale systems serving millions of users.
 
-I have strong passion for learning about latest technologies and building tools to help humanity! 🚀.
+- **Backend:** Node.js, Express, NestJS, Java, Spring Boot, Go, GraphQL, REST
+- **Frontend:** TypeScript, React, Next.js
+- **Architecture:** Microservices, event-driven systems, distributed systems, API design
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD
+- **Databases:** PostgreSQL, MySQL, Oracle
 
-I spend most of my time coding 👨🏽‍💻 and when I am not, I am busy playing the piano(ps: i love music 😁) or learning about a new tech feature most especially front end technologies🚀.
-
-Over the last 7years, I helped several companies take their complex products from concept to market delivery. I can help you do the same.
-
-Feel free to reach me on:
-
-LinkedIn: https://www.linkedin.com/in/ose-matthew/
-
-Email: osemu.matthew@gmail.com
-
-Gracias✌
+[LinkedIn](https://www.linkedin.com/in/ose-matthew/) · [Email](mailto:osemu.matthew.0198@gmail.com)
